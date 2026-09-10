@@ -1,0 +1,1 @@
+print("lucky is racist.")
