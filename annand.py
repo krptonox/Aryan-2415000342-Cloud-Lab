@@ -1,0 +1,1 @@
+print("I am Annand and i have a proof, that lucky is a Racist.")
